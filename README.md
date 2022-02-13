@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Thank you for visiting. Enjoy IT!!
 <!--
 **jkmin97/jkmin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
