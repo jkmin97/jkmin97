@@ -1,6 +1,10 @@
-### Hi there 👋
+### Welcome! 👋
 [![jkmin97's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkmin97&theme=jolly&show_icons=true)](https://github.com/jkmin97/github-readme-stats) <br>
-Thank you for visiting. Enjoy IT!!
+
+🌱 I’m currently learning HTML, CSS, and JAVASCRIPT.
+
+Thank you for visiting. Have a good time and Enjoy IT!!
+
 <!--
 **jkmin97/jkmin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
