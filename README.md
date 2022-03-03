@@ -1,4 +1,4 @@
-### Welcome! 👋
+### Welcome! 👋😸😸
 [![jkmin97's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkmin97&theme=jolly&show_icons=true)](https://github.com/jkmin97/github-readme-stats) <br>
 
 🌱 I’m currently learning HTML, CSS, and JAVASCRIPT.
