@@ -1,5 +1,6 @@
 ### Welcome! 👋😸😸
-[![jkmin97's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkmin97&theme=jolly&show_icons=true)](https://github.com/jkmin97/github-readme-stats) <br>
+[![jkmin97's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkmin97&theme=jolly&show_icons=true)](https://github.com/jkmin97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkmin97)](https://github.com/jkmin97/github-readme-stats)
 
 🌱 I’m currently learning HTML, CSS, and JAVASCRIPT.
 
