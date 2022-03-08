@@ -1,5 +1,5 @@
 ### Welcome! 👋😸😸
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=min's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jkmin's%20github&fontSize=90)
 [![jkmin97's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkmin97&theme=jolly&show_icons=true)](https://github.com/jkmin97/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkmin97)](https://github.com/jkmin97/github-readme-stats)
 
